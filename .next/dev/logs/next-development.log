@@ -1,0 +1,1218 @@
+[00:00:03.444] Server  LOG     ✓ Ready in 2.6s
+[00:00:06.906] Server  ERROR   ⨯ ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-primary-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+[00:00:07.757] Browser ERROR   uncaughtError: Error: ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-primary-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+[00:00:08.914] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-primary-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:00:08.914] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-primary-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:04:48.907] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:04:50.907] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-bl-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:04:53.906] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg-primary-700`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:04:58.908] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg--700`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:01.905] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg-lb-700`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:05.905] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `border-primary-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:37.924] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `border--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:40.913] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `border-blu-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:41.918] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-primary-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:47.918] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:49.910] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:52.917] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:55.915] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg-primary-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:05:58.909] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:06:00.917] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `focus:ring-primary-500`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:06:07.915] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `focus:ring--500`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:06:09.920] Server  LOG     ✓ Compiled in 929ms
+[00:06:10.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:59.578] Server  LOG     ✓ Compiled in 118ms
+[00:06:59.909] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg--50`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:07:02.911] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-b-50`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:07:03.912] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-bla-50`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:07:05.910] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-blac-50`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:07:06.251] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-black-50`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:07:17.910] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg--50`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:07:19.910] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-g-50`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:12:39.433] Server  LOG     ✓ Compiled in 293ms
+[00:15:10.219] Server  LOG     ✓ Compiled in 252ms
+[00:15:10.910] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:15:12.911] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-blue`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:16:08.594] Server  LOG     ✓ Compiled in 162ms
+[00:16:08.911] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:16:10.914] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-ro`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:16:12.911] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-rose`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:16:13.915] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-rose-`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:16:50.607] Server  LOG     ✓ Compiled in 266ms
+[00:17:29.705] Server  LOG     ✓ Compiled in 195ms
+[00:17:29.906] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:17:31.907] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-g-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:17:33.923] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-gra-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:17:55.878] Server  LOG     ✓ Compiled in 208ms
+[00:17:56.905] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg--700`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:18:09.551] Server  LOG     ✓ Compiled in 150ms
+[00:18:09.914] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `border--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:18:13.816] Server  LOG     ✓ Compiled in 912ms
+[00:18:18.319] Server  LOG     ✓ Compiled in 100ms
+[00:18:18.919] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:20:50.939] Server  LOG     ✓ Compiled in 100ms
+[00:20:52.164] Server  LOG     ✓ Compiled in 154ms
+[00:24:02.838] Server  LOG     ✓ Compiled in 299ms
+[00:24:03.251] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:05.837] Server  LOG     ✓ Compiled in 66ms
+[00:24:09.224] Server  LOG     ✓ Compiled in 166ms
+[00:24:09.508] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:09.923] Browser ERROR   uncaughtError: ReferenceError: cartItems is not defined
+[00:25:00.536] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:00.960] Server  LOG     ✓ Compiled in 76ms
+[00:25:01.187] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:01.522] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:01.522] Browser ERROR   uncaughtError: ReferenceError: cartItems is not defined
+[00:25:01.886] Server  ERROR   ⨯ ReferenceError: useContext is not defined
+[00:25:01.911] Server  LOG     ✓ Compiled in 42ms
+[00:25:02.065] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:02.919] Browser ERROR   uncaughtError: ReferenceError: useContext is not defined
+[00:25:22.050] Server  LOG     ✓ Compiled in 83ms
+[00:25:22.915] Browser ERROR   ./src/components/layout/Navbar.tsx:25:23
+Parsing ecmascript source code failed
+  23 |   }
+  24 |   // مثال لو بتستخدمي Context
+> 25 | const { cartItems } = ;
+     |                       ^
+  26 |
+  27 |   return (
+  28 |     <nav className="bg-white shadow-sm sticky top-0 z-50">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[00:25:24.212] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:24.580] Server  ERROR   ⨯ ReferenceError: u is not defined
+[00:25:24.866] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:25.914] Browser ERROR   uncaughtError: ReferenceError: u is not defined
+[00:25:26.907] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:26.923] Server  LOG     ✓ Compiled in 62ms
+[00:25:27.234] Server  ERROR   ⨯ TypeError: Cannot destructure property 'cartItems' of 'user' as it is null.
+[00:25:27.455] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:37.015] Server  LOG     ✓ Compiled in 60ms
+[00:25:37.914] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:25:38.892] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:38.912] Server  LOG     ✓ Compiled in 72ms
+[00:25:39.278] Server  ERROR   ⨯ ReferenceError: useC is not defined
+[00:25:39.506] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:39.915] Browser ERROR   uncaughtError: ReferenceError: useC is not defined
+[00:25:42.597] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:42.966] Server  LOG     ✓ Compiled in 115ms
+[00:25:43.153] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:44.459] Server  LOG     ✓ Compiled in 56ms
+[00:25:44.910] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading '$$typeof')
+[00:25:51.151] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:51.173] Server  LOG     ✓ Compiled in 94ms
+[00:25:51.498] Server  ERROR   ⨯ ReferenceError: c is not defined
+[00:25:51.713] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:51.913] Browser ERROR   uncaughtError: ReferenceError: c is not defined
+[00:25:52.685] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:53.458] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading '$$typeof')
+[00:25:53.481] Server  LOG     ✓ Compiled in 54ms
+[00:25:53.670] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:53.915] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading '$$typeof')
+[00:25:55.088] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:55.410] Server  ERROR   ⨯ ReferenceError: Ca is not defined
+[00:25:55.425] Server  LOG     ✓ Compiled in 32ms
+[00:25:55.725] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:55.910] Browser ERROR   uncaughtError: ReferenceError: Ca is not defined
+[00:25:57.798] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:57.814] Server  LOG     ✓ Compiled in 100ms
+[00:25:58.158] Server  ERROR   ⨯ ReferenceError: Card is not defined
+[00:25:58.334] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:58.914] Browser ERROR   uncaughtError: ReferenceError: Card is not defined
+[00:26:23.959] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:24.287] Server  ERROR   ⨯ ReferenceError: CardC is not defined
+[00:26:24.332] Server  LOG     ✓ Compiled in 68ms
+[00:26:24.600] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:24.913] Browser ERROR   uncaughtError: ReferenceError: CardC is not defined
+[00:26:25.667] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:26.103] Server  ERROR   ⨯ ReferenceError: CardCon is not defined
+[00:26:26.152] Server  LOG     ✓ Compiled in 69ms
+[00:26:26.390] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:26.910] Browser ERROR   uncaughtError: ReferenceError: CardCon is not defined
+[00:26:28.778] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:29.238] Server  ERROR   ⨯ ReferenceError: CardContex is not defined
+[00:26:29.256] Server  LOG     ✓ Compiled in 36ms
+[00:26:29.406] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:29.911] Browser ERROR   uncaughtError: ReferenceError: CardContex is not defined
+[00:26:30.081] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:30.094] Server  LOG     ✓ Compiled in 42ms
+[00:26:30.442] Server  ERROR   ⨯ ReferenceError: CardContext is not defined
+[00:26:30.618] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:30.911] Browser ERROR   uncaughtError: ReferenceError: CardContext is not defined
+[00:30:08.193] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:30:08.630] Server  LOG     ✓ Compiled in 109ms
+[00:30:08.905] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:09.910] Browser ERROR   uncaughtError: ReferenceError: cartItems is not defined
+[00:30:11.395] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:30:11.414] Server  LOG     ✓ Compiled in 34ms
+[00:30:11.980] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:12.909] Browser ERROR   uncaughtError: ReferenceError: cartItems is not defined
+[00:30:25.977] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:30:26.378] Server  LOG     ✓ Compiled in 134ms
+[00:30:26.676] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:54.724] Server  LOG     ✓ Compiled in 148ms
+[00:30:54.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:01.887] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:08.659] Server  LOG     ✓ Compiled in 90ms
+[00:32:17.411] Server  LOG     ✓ Compiled in 63ms
+[00:33:07.042] Server  LOG     ✓ Compiled in 73ms
+[00:33:20.274] Server  LOG     ✓ Compiled in 114ms
+[00:33:32.852] Server  LOG     ✓ Compiled in 96ms
+[00:33:45.489] Server  LOG     ✓ Compiled in 34ms
+[00:33:56.984] Server  LOG     ✓ Compiled in 52ms
+[00:33:58.985] Server  LOG     ✓ Compiled in 204ms
+[00:35:41.279] Server  LOG     ✓ Compiled in 90ms
+[00:35:43.879] Server  LOG     ✓ Compiled in 60ms
+[00:36:24.292] Server  LOG     ✓ Compiled in 65ms
+[00:36:25.923] Server  LOG     ✓ Compiled in 57ms
+[00:36:32.538] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:47.007] Server  LOG     ✓ Compiled in 80ms
+[00:36:56.685] Server  LOG     ✓ Compiled in 82ms
+[00:37:04.595] Server  LOG     ✓ Compiled in 66ms
+[00:37:08.884] Server  LOG     ✓ Compiled in 137ms
+[00:37:22.508] Server  LOG     ✓ Compiled in 67ms
+[00:38:25.082] Server  LOG     ✓ Compiled in 100ms
+[00:38:27.912] Server  LOG     ✓ Compiled in 73ms
+[00:40:51.434] Server  LOG     ✓ Compiled in 111ms
+[00:41:50.044] Server  LOG     ✓ Compiled in 42ms
+[00:41:59.209] Server  LOG     ✓ Compiled in 86ms
+[00:42:00.871] Server  LOG     ✓ Compiled in 60ms
+[00:42:10.266] Server  LOG     ✓ Compiled in 74ms
+[00:42:13.643] Server  LOG     ✓ Compiled in 54ms
+[00:42:17.393] Server  LOG     ✓ Compiled in 56ms
+[00:42:23.773] Server  LOG     ✓ Compiled in 86ms
+[00:42:48.391] Server  LOG     ✓ Compiled in 80ms
+[00:42:50.141] Server  LOG     ✓ Compiled in 48ms
+[00:42:52.906] Server  LOG     ✓ Compiled in 67ms
+[00:42:53.991] Server  LOG     ✓ Compiled in 63ms
+[00:42:59.089] Server  LOG     ✓ Compiled in 84ms
+[00:43:14.401] Server  LOG     ✓ Compiled in 108ms
+[00:43:16.653] Server  LOG     ✓ Compiled in 63ms
+[00:44:18.470] Server  LOG     ✓ Compiled in 121ms
+[00:46:02.000] Server  LOG     ✓ Compiled in 76ms
+[00:46:04.096] Server  LOG     ✓ Compiled in 85ms
+[00:46:06.901] Server  LOG     ✓ Compiled in 73ms
+[00:46:07.923] Server  LOG     ✓ Compiled in 36ms
+[00:46:09.952] Server  LOG     ✓ Compiled in 60ms
+[00:47:30.516] Server  LOG     ✓ Compiled in 64ms
+[00:47:32.359] Server  LOG     ✓ Compiled in 73ms
+[00:47:33.498] Server  LOG     ✓ Compiled in 72ms
+[00:47:36.973] Server  LOG     ✓ Compiled in 69ms
+[00:47:40.215] Server  LOG     ✓ Compiled in 71ms
+[00:47:57.366] Server  LOG     ✓ Compiled in 69ms
+[00:47:58.863] Server  LOG     ✓ Compiled in 42ms
+[00:48:00.499] Server  LOG     ✓ Compiled in 82ms
+[00:48:11.330] Server  LOG     ✓ Compiled in 54ms
+[00:48:15.645] Server  LOG     ✓ Compiled in 52ms
+[00:48:24.012] Server  LOG     ✓ Compiled in 67ms
+[00:48:25.709] Server  LOG     ✓ Compiled in 99ms
+[00:48:27.210] Server  LOG     ✓ Compiled in 52ms
+[00:48:29.712] Server  LOG     ✓ Compiled in 62ms
+[00:48:50.921] Server  LOG     ✓ Compiled in 126ms
+[00:48:56.043] Server  LOG     ✓ Compiled in 33ms
+[00:48:58.111] Server  LOG     ✓ Compiled in 52ms
+[00:49:01.676] Server  LOG     ✓ Compiled in 38ms
+[00:49:06.989] Server  LOG     ✓ Compiled in 109ms
+[00:49:19.387] Server  LOG     ✓ Compiled in 61ms
+[00:49:21.741] Server  LOG     ✓ Compiled in 58ms
+[00:49:26.151] Server  LOG     ✓ Compiled in 89ms
+[00:49:30.221] Server  LOG     ✓ Compiled in 64ms
+[00:49:31.673] Server  LOG     ✓ Compiled in 126ms
+[00:49:36.423] Server  LOG     ✓ Compiled in 68ms
+[00:49:46.016] Server  LOG     ✓ Compiled in 103ms
+[00:49:48.449] Server  LOG     ✓ Compiled in 60ms
+[00:50:10.658] Server  LOG     ✓ Compiled in 128ms
+[00:50:50.033] Server  LOG     ✓ Compiled in 81ms
+[00:52:33.062] Server  LOG     ✓ Compiled in 165ms
+[00:52:38.444] Server  LOG     ✓ Compiled in 1369ms
+[00:52:38.907] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:52:41.907] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-white-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:03.906] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-g-300`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:06.921] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-white-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:11.920] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-green-`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:13.920] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-white-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:29.922] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-white-600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:30.915] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:32.920] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:53:42.606] Server  LOG     ✓ Compiled in 153ms
+[00:53:53.551] Server  LOG     ✓ Compiled in 213ms
+[00:53:53.913] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg--300`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:54:01.270] Server  LOG     ✓ Compiled in 263ms
+[00:54:41.989] Server  LOG     ✓ Compiled in 223ms
+[00:54:42.913] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `hover:bg--600`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:54:51.044] Server  LOG     ✓ Compiled in 88ms
+[00:54:51.911] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `bg-rose-00`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:55:03.393] Server  LOG     ✓ Compiled in 164ms
+[00:55:07.644] Server  LOG     ✓ Compiled in 86ms
+[00:55:07.910] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: E:\Front-End\React\myproject\src\app\globals.css:1:1: Cannot apply unknown utility class `text-gray-00`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (E:\Front-End\React\myproject\node_modules\@tailwindcss\postcss\dist\index.js:10:6913)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:56:29.667] Server  LOG     ✓ Compiled in 51ms
+[00:56:34.052] Server  LOG     ✓ Compiled in 116ms
+[00:56:45.835] Server  LOG     ✓ Compiled in 83ms
+[00:56:48.651] Server  LOG     ✓ Compiled in 67ms
+[00:56:50.547] Server  LOG     ✓ Compiled in 53ms
+[00:58:03.284] Server  LOG     ✓ Compiled in 129ms
+[00:58:07.394] Server  LOG     ✓ Compiled in 73ms
+[00:58:09.155] Server  LOG     ✓ Compiled in 67ms
+[01:00:36.991] Server  LOG     ✓ Compiled in 173ms
+[01:00:38.054] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:39.479] Server  LOG     ✓ Compiled in 54ms
+[01:00:39.910] Browser ERROR   ./src/components/layout/Navbar.tsx:63:1
+Parsing ecmascript source code failed
+  61 |                <div className="relative">
+  62 |  <L
+> 63 | </div>
+     | ^
+  64 |                 {/* User */}
+  65 |                 <span className="hidden md:block text-sm text-gray-900">Hi, {user?.name?.split(' ')[0]}</span>
+  66 |                 <button onClick={handleLogout} className="btn-gray-700 border-2 rounded-2xl hover:bg-gray-300 text-sm py-1.5 px-4">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:00:39.910] Browser ERROR   ./src/components/layout/Navbar.tsx:63:2
+Parsing ecmascript source code failed
+  61 |                <div className="relative">
+  62 |  <L
+> 63 | </div>
+     |  ^^^^^
+  64 |                 {/* User */}
+  65 |                 <span className="hidden md:block text-sm text-gray-900">Hi, {user?.name?.split(' ')[0]}</span>
+  66 |                 <button onClick={handleLogout} className="btn-gray-700 border-2 rounded-2xl hover:bg-gray-300 text-sm py-1.5 px-4">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:00:41.913] Browser ERROR   ./src/components/layout/Navbar.tsx:63:1
+Parsing ecmascript source code failed
+  61 |                <div className="relative">
+  62 |  <Li
+> 63 | </div>
+     | ^
+  64 |                 {/* User */}
+  65 |                 <span className="hidden md:block text-sm text-gray-900">Hi, {user?.name?.split(' ')[0]}</span>
+  66 |                 <button onClick={handleLogout} className="btn-gray-700 border-2 rounded-2xl hover:bg-gray-300 text-sm py-1.5 px-4">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:00:41.913] Browser ERROR   ./src/components/layout/Navbar.tsx:63:2
+Parsing ecmascript source code failed
+  61 |                <div className="relative">
+  62 |  <Li
+> 63 | </div>
+     |  ^^^^^
+  64 |                 {/* User */}
+  65 |                 <span className="hidden md:block text-sm text-gray-900">Hi, {user?.name?.split(' ')[0]}</span>
+  66 |                 <button onClick={handleLogout} className="btn-gray-700 border-2 rounded-2xl hover:bg-gray-300 text-sm py-1.5 px-4">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:00:42.907] Browser ERROR   ./src/components/layout/Navbar.tsx:63:1
+Parsing ecmascript source code failed
+  61 |                <div className="relative">
+  62 |  <Link
+> 63 | </div>
+     | ^
+  64 |                 {/* User */}
+  65 |                 <span className="hidden md:block text-sm text-gray-900">Hi, {user?.name?.split(' ')[0]}</span>
+  66 |                 <button onClick={handleLogout} className="btn-gray-700 border-2 rounded-2xl hover:bg-gray-300 text-sm py-1.5 px-4">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:00:42.907] Browser ERROR   ./src/components/layout/Navbar.tsx:63:2
+Parsing ecmascript source code failed
+  61 |                <div className="relative">
+  62 |  <Link
+> 63 | </div>
+     |  ^^^^^
+  64 |                 {/* User */}
+  65 |                 <span className="hidden md:block text-sm text-gray-900">Hi, {user?.name?.split(' ')[0]}</span>
+  66 |                 <button onClick={handleLogout} className="btn-gray-700 border-2 rounded-2xl hover:bg-gray-300 text-sm py-1.5 px-4">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:00:44.913] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:00:46.698] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:00:46.719] Server  LOG     ✓ Compiled in 56ms
+[01:00:47.038] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:00:47.269] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:47.917] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:00:50.367] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:00:50.395] Server  LOG     ✓ Compiled in 157ms
+[01:00:51.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:51.915] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:01:02.301] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:01:02.310] Server  LOG     ✓ Compiled in 77ms
+[01:01:03.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:03.910] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:01:04.004] Server  LOG     ✓ Compiled in 98ms
+[01:01:04.913] Browser ERROR   ./src/components/layout/Navbar.tsx:62:15
+Parsing ecmascript source code failed
+  60 |                
+  61 |                <div className="relative">
+> 62 |  <Link href={}>
+     |               ^
+  63 |   <ShoppingCart className="h-7 w-7 text-primary-600" />
+  64 |   
+  65 |   {numOfCartItems > 0 && (
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:01:06.929] Server  LOG     ✓ Compiled in 69ms
+[01:01:07.913] Browser ERROR   ./src/components/layout/Navbar.tsx:62:14
+Parsing ecmascript source code failed
+  60 |                
+  61 |                <div className="relative">
+> 62 |  <Link href={/}>
+     |              ^^^
+  63 |   <ShoppingCart className="h-7 w-7 text-primary-600" />
+  64 |   
+  65 |   {numOfCartItems > 0 && (
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:01:14.924] Browser ERROR   ./src/components/layout/Navbar.tsx:62:14
+Parsing ecmascript source code failed
+  60 |                
+  61 |                <div className="relative">
+> 62 |  <Link href={/ca}>
+     |              ^^^^^
+  63 |   <ShoppingCart className="h-7 w-7 text-primary-600" />
+  64 |   
+  65 |   {numOfCartItems > 0 && (
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:01:16.912] Browser ERROR   ./src/components/layout/Navbar.tsx:62:14
+Parsing ecmascript source code failed
+  60 |                
+  61 |                <div className="relative">
+> 62 |  <Link href={/car}>
+     |              ^^^^^^
+  63 |   <ShoppingCart className="h-7 w-7 text-primary-600" />
+  64 |   
+  65 |   {numOfCartItems > 0 && (
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:01:22.913] Browser ERROR   ./src/components/layout/Navbar.tsx:62:14
+Parsing ecmascript source code failed
+  60 |                
+  61 |                <div className="relative">
+> 62 |  <Link href={/cart}>
+     |              ^^^^^^^
+  63 |   <ShoppingCart className="h-7 w-7 text-primary-600" />
+  64 |   
+  65 |   {numOfCartItems > 0 && (
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:02:38.119] Server  LOG     ✓ Compiled in 46ms
+[01:02:38.904] Browser ERROR   ./src/components/layout/Navbar.tsx:62:12
+Parsing ecmascript source code failed
+  60 |                
+  61 |                <div className="relative">
+> 62 |  <Link href=>
+     |            ^^
+  63 |   <ShoppingCart className="h-7 w-7 text-primary-600" />
+  64 |   
+  65 |   {numOfCartItems > 0 && (
+
+Expected '</', got '=>'
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:02:39.174] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:02:39.915] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:41.871] Server  LOG     ✓ Compiled in 38ms
+[01:02:45.199] Server  LOG     ✓ Compiled in 30ms
+[01:02:46.270] Server  LOG     ✓ Compiled in 34ms
+[01:02:48.379] Server  LOG     ✓ Compiled in 33ms
+[01:03:13.251] Server  LOG     ✓ Compiled in 45ms
+[01:03:13.918] Browser ERROR   ./src/components/layout/Navbar.tsx:63:52
+Parsing ecmascript source code failed
+  61 |                <div className="relative">
+  62 |  <Link href='/cart' className="relative p-2 text-gray-600 hover:text-rose-500 transition-colors>
+> 63 |   <ShoppingCart className="h-7 w-7 text-primary-600" />
+     |                                                    ^^^^
+  64 |   
+  65 |   {numOfCartItems > 0 && (
+  66 |     <span className="absolute -top-2 -right-3 bg-rose-500 text-white text-xs rounded-full w-4 h-4 flex items-center justify-center">
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:03:44.166] Browser WARN    Image with src "https://ecommerce.routemisr.com/Route-Academy-products/1680394593396-cover.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:04:14.032] Server  LOG     ✓ Compiled in 48ms
+[01:04:14.913] Browser ERROR   ./src/components/layout/Navbar.tsx:77:17
+Parsing ecmascript source code failed
+  75 |                   Logout
+  76 |                 </button>
+> 77 |               </>
+     |                 ^
+  78 |             ) : (
+  79 |               <div className="flex gap-3">
+  80 |                 <Link href="/login" className="btn-outline text-sm py-1.5 px-4">Login</Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/layout/Navbar.tsx
+    ./src/app/layout.tsx
+[01:04:37.661] Server  LOG     ✓ Compiled in 37ms
+[01:04:39.279] Server  LOG     ✓ Compiled in 62ms
+[01:04:55.460] Server  LOG     ✓ Compiled in 37ms
+[01:04:58.593] Server  LOG     ✓ Compiled in 33ms
+[01:05:52.497] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:53.237] Browser WARN    Image with src "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:06:36.334] Server  LOG     ✓ Compiled in 66ms
+[01:07:05.164] Server  LOG     ✓ Compiled in 49ms
+[01:07:06.982] Server  LOG     ✓ Compiled in 35ms
+[01:07:09.064] Server  LOG     ✓ Compiled in 64ms
+[01:08:14.496] Server  LOG     ✓ Compiled in 57ms
+[01:08:16.442] Server  LOG     ✓ Compiled in 42ms
+[01:08:18.108] Server  LOG     ✓ Compiled in 38ms
+[01:08:27.390] Server  LOG     ✓ Compiled in 50ms
+[01:08:29.368] Server  LOG     ✓ Compiled in 63ms
+[01:08:34.626] Server  LOG     ✓ Compiled in 63ms
+[01:08:59.043] Server  LOG     ✓ Compiled in 48ms
+[01:09:01.215] Server  LOG     ✓ Compiled in 42ms
