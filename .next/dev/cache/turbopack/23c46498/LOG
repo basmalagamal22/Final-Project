@@ -2846,3 +2846,71 @@ FAM | META SEQ | SST SEQ         | RANGE
   0 | 00002222 | 00002221 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
   1 | 00002223 | 00002219 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
   2 | 00002224 | 00002220 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:21:28.986204Z
+Commit 00002230 4 keys in 22ms 226µs 300ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002228 | 00002227 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002229 | 00002225 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002230 | 00002226 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:22:49.7839138Z
+Commit 00002236 4 keys in 22ms 672µs 300ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002234 | 00002233 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002235 | 00002231 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002236 | 00002232 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:24:57.2518281Z
+Commit 00002242 4 keys in 26ms 126µs 500ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002240 | 00002239 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002241 | 00002237 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002242 | 00002238 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:25:04.0775917Z
+Commit 00002248 4 keys in 19ms 769µs 600ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002246 | 00002245 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002247 | 00002243 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002248 | 00002244 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:26:15.4481213Z
+Commit 00002254 4 keys in 20ms 752µs 400ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002252 | 00002251 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002253 | 00002249 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002254 | 00002250 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:40:00.1668067Z
+Commit 00002264 1125 keys in 24ms 385µs 800ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002260 | 00002257 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002261 | 00002256 SST    | [==================================================================================================] | 001082a2999b5cd4-ffea8f68ee003d6e (0 MiB, fresh)
+  2 | 00002262 | 00002255 SST    | [==================================================================================================] | 002bcd2e8bc710ec-ffea8f68ee003d6e (0 MiB, fresh)
+  3 | 00002263 | 00002258 SST    |    [=========================================================================================]       | 08f23302a6fc4ab8-efbb39b9865eecac (0 MiB, fresh)
+  4 | 00002264 | 00002259 SST    |  [=================================================================================================] | 04b4cd59b9f9140e-ffea8f68ee003d6e (0 MiB, fresh)
+Time 2026-04-16T14:40:09.3233398Z
+Commit 00002270 4 keys in 19ms 898µs 700ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002268 | 00002267 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002269 | 00002265 SST    |     O                                                                                                | 0bf971d372ee6f92-0bf971d372ee6f92 (0 MiB, fresh)
+  2 | 00002270 | 00002266 SST    |     O                                                                                                | 0bf971d372ee6f92-0bf971d372ee6f92 (0 MiB, fresh)
+Time 2026-04-16T14:40:37.1170151Z
+Commit 00002276 164 keys in 10ms 720µs 200ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002274 | 00002273 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002275 | 00002272 SST    | [==================================================================================================] | 001082a2999b5cd4-ff9eb776778a2c07 (0 MiB, fresh)
+  2 | 00002276 | 00002271 SST    | [============================================================================================]       | 0158bc0f2026144a-efd51256a6660c4a (0 MiB, fresh)
+Time 2026-04-16T14:42:46.5531295Z
+Commit 00002282 4 keys in 22ms 373µs 700ns
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002280 | 00002279 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002281 | 00002277 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002282 | 00002278 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:42:57.1965281Z
+Commit 00002288 4 keys in 16ms 87µs
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002286 | 00002285 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002287 | 00002283 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002288 | 00002284 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+Time 2026-04-16T14:43:01.2533419Z
+Commit 00002294 4 keys in 13ms 207µs
+FAM | META SEQ | SST SEQ         | RANGE
+  0 | 00002292 | 00002291 SST    |                        [=======================================================================]     | 3aefa6fd5cf2deb4-f42f94001fcb5351 (0 MiB, fresh)
+  1 | 00002293 | 00002289 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
+  2 | 00002294 | 00002290 SST    |                         O                                                                            | 3ffdfb3b7d50fcf1-3ffdfb3b7d50fcf1 (0 MiB, fresh)
